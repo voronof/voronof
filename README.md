@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @voronof
 - 👀 I’m interested in Crypto, Investments, Wordpress.
 - 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on Crypto.
+- 💞️ My sweetheart is @garmmoniya
+- 
 
 <!---
 voronof/voronof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
